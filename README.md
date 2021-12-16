@@ -1,5 +1,5 @@
 # quarevTelegramBot
-A Telegram Bot that performs the quarev bitstream reversion on Quartus FPGA bitstream files.
+A Telegram Bot that performs the [quarev](https://github.com/adiehl96/quarev) bitstream reversion on Quartus FPGA bitstream files for the Arduino MKR Vidor 4000.
 
 # Setup
 Create a python environment with telepot and wget installed. Get a telegram token as outlined [here](https://telepot.readthedocs.io/en/latest/).
